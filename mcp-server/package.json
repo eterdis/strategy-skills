@@ -1,0 +1,48 @@
+{
+  "name": "@eterdis/strategy-skills-mcp",
+  "version": "1.0.0",
+  "description": "MCP server exposing 11 open strategy frameworks as AI-guided prompts. Built on 20 years of consulting practice.",
+  "type": "module",
+  "bin": {
+    "eterdis-strategy-skills-mcp": "./build/index.js"
+  },
+  "scripts": {
+    "copy-content": "bash scripts/copy-content.sh",
+    "build": "npm run copy-content && tsc",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "build",
+    "content"
+  ],
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "strategy",
+    "consulting",
+    "ai-agent",
+    "frameworks",
+    "vrio",
+    "wardley-map",
+    "playing-to-win"
+  ],
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "license": "CC-BY-4.0",
+  "homepage": "https://eterdis.com/skills/",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eterdis/strategy-skills.git",
+    "directory": "mcp-server"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "zod": "^3.25.0"
+  },
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "typescript": "^5.7.0"
+  }
+}
