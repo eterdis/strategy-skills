@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-vrio",
+  "version": "1.0.0",
+  "description": "VRIO resource analysis combined with Dynamic Capabilities assessment — test whether your advantages are real and durable.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/vrio-analysis/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

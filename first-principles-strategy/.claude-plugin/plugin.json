@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-first-principles",
+  "version": "1.0.0",
+  "description": "First-principles strategy — find the theoretical maximum for your business and work backwards to your first move.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/first-principles-strategy/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-pre-mortem",
+  "version": "1.0.0",
+  "description": "Stress-test plans by imagining they've already failed. Six failure categories, the monkey test, and concrete adjustments.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/pre-mortem/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

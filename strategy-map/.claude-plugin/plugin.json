@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-strategy-map",
+  "version": "1.0.0",
+  "description": "Two-directional causal chain analysis. Bottom-up from resources to results, top-down from expectations to requirements.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/strategy-map/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

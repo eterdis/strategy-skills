@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-wardley-map",
+  "version": "1.0.0",
+  "description": "Wardley Mapping — map your value chain, plot component evolution, and spot strategic plays that movement creates.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/wardley-map/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

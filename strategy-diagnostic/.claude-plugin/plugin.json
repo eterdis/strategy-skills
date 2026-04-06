@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-strategy-diagnostic",
+  "version": "1.0.0",
+  "description": "Entry point — AI-guided strategic assessment that detects which frameworks are most relevant and produces a strategy-ready brief.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/strategy-diagnostic/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

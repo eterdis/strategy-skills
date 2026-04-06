@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-culture",
+  "version": "1.0.0",
+  "description": "Culture assessment — surface the gap between declared culture and actual culture. Three modes: Diagnostic, Review, Alert Triggers.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/culture-assessment/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

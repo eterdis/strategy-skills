@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-playing-to-win",
+  "version": "1.0.0",
+  "description": "Lafley/Martin Playing to Win strategy cascade — five interconnected choices that define a real strategy.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/playing-to-win/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

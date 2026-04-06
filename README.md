@@ -40,7 +40,21 @@ All skills read and update a shared `company-context.md` file that accumulates s
 
 ## Quick start
 
-### Install the full system (recommended)
+### One-command install (Claude Code, Cursor, Codex, and 40+ agents)
+
+```bash
+npx skills add eterdis/strategy-skills
+```
+
+### Claude Code plugin marketplace
+
+```
+/plugin marketplace add eterdis/strategy-skills
+```
+
+Then browse and install individual skills via `/plugin` > Discover.
+
+### Install the full system from source
 
 ```bash
 git clone https://github.com/eterdis/strategy-skills.git
@@ -61,7 +75,8 @@ curl -O https://raw.githubusercontent.com/eterdis/strategy-skills/main/strategy-
 
 | Environment | How to install |
 |---|---|
-| **Claude Code, Cursor, Windsurf, Cline** | Add SKILL.md files to your agent's skills directory |
+| **Claude Code** | `npx skills add eterdis/strategy-skills` or `/plugin marketplace add eterdis/strategy-skills` |
+| **Cursor, Codex, Copilot, Windsurf** | `npx skills add eterdis/strategy-skills` |
 | **Claude Projects** | Upload `STRATEGY.md` + skill files as project knowledge |
 | **ChatGPT** | Paste SKILL.md contents as Custom Instructions or first message |
 | **Gemini, Llama, DeepSeek, Ollama** | Paste SKILL.md contents as system prompt |

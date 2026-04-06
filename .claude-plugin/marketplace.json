@@ -1,0 +1,124 @@
+{
+  "name": "eterdis-strategy-skills",
+  "owner": {
+    "name": "Eterdis AS",
+    "email": "hello@eterdis.com"
+  },
+  "metadata": {
+    "description": "Open strategy frameworks for AI agents — 11 skills that turn any LLM into a strategy thinking partner. Built on 20 years of consulting practice.",
+    "version": "1.0.0",
+    "homepage": "https://eterdis.com/skills/"
+  },
+  "plugins": [
+    {
+      "name": "eterdis-strategy-diagnostic",
+      "source": "./strategy-diagnostic",
+      "description": "Entry point — AI-guided strategic assessment that detects which frameworks are most relevant and produces a strategy-ready brief.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/strategy-diagnostic/",
+      "category": "strategy",
+      "tags": ["strategy", "diagnostic", "assessment"]
+    },
+    {
+      "name": "eterdis-strategy-map",
+      "source": "./strategy-map",
+      "description": "Two-directional causal chain analysis. Bottom-up from resources to results, top-down from expectations to requirements.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/strategy-map/",
+      "category": "strategy",
+      "tags": ["strategy", "alignment", "value-chain"]
+    },
+    {
+      "name": "eterdis-vrio",
+      "source": "./vrio-analysis",
+      "description": "VRIO resource analysis combined with Dynamic Capabilities assessment — test whether your advantages are real and durable.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/vrio-analysis/",
+      "category": "strategy",
+      "tags": ["competitive-advantage", "resources", "vrio"]
+    },
+    {
+      "name": "eterdis-environmental-radar",
+      "source": "./environmental-radar",
+      "description": "Continuous PESTEL environmental scanning across six categories. Three modes: full scan, monthly review, alert triggers.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/environmental-radar/",
+      "category": "strategy",
+      "tags": ["pestel", "environment", "scanning"]
+    },
+    {
+      "name": "eterdis-market-position",
+      "source": "./market-position",
+      "description": "Competitive positioning diagnostic — figure out where you actually stand and whether that position is defensible.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/market-position/",
+      "category": "strategy",
+      "tags": ["competition", "positioning", "market"]
+    },
+    {
+      "name": "eterdis-wardley-map",
+      "source": "./wardley-map",
+      "description": "Wardley Mapping — map your value chain, plot component evolution, and spot strategic plays that movement creates.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/wardley-map/",
+      "category": "strategy",
+      "tags": ["wardley", "evolution", "value-chain"]
+    },
+    {
+      "name": "eterdis-culture",
+      "source": "./culture-assessment",
+      "description": "Culture assessment — surface the gap between declared culture and actual culture. Three modes: Diagnostic, Review, Alert Triggers.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/culture-assessment/",
+      "category": "strategy",
+      "tags": ["culture", "organization", "execution"]
+    },
+    {
+      "name": "eterdis-first-principles",
+      "source": "./first-principles-strategy",
+      "description": "First-principles strategy — find the theoretical maximum for your business and work backwards to your first move.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/first-principles-strategy/",
+      "category": "strategy",
+      "tags": ["first-principles", "innovation", "theoretical-maximum"]
+    },
+    {
+      "name": "eterdis-playing-to-win",
+      "source": "./playing-to-win",
+      "description": "Lafley/Martin Playing to Win strategy cascade — five interconnected choices that define a real strategy.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/playing-to-win/",
+      "category": "strategy",
+      "tags": ["playing-to-win", "choices", "cascade"]
+    },
+    {
+      "name": "eterdis-pre-mortem",
+      "source": "./pre-mortem",
+      "description": "Stress-test plans by imagining they've already failed. Six failure categories, the monkey test, and concrete adjustments.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/pre-mortem/",
+      "category": "strategy",
+      "tags": ["risk", "planning", "failure-analysis"]
+    },
+    {
+      "name": "eterdis-protoloop",
+      "source": "./protoloop-setup",
+      "description": "Track Two innovation system for running small, fast experiments outside the core business.",
+      "version": "1.0.0",
+      "author": {"name": "Eterdis AS"},
+      "homepage": "https://eterdis.com/skills/protoloop-setup/",
+      "category": "strategy",
+      "tags": ["innovation", "experimentation", "track-two"]
+    }
+  ]
+}

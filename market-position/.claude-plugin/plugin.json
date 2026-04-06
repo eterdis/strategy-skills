@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-market-position",
+  "version": "1.0.0",
+  "description": "Competitive positioning diagnostic — figure out where you actually stand and whether that position is defensible.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/market-position/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

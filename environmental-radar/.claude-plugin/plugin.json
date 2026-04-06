@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-environmental-radar",
+  "version": "1.0.0",
+  "description": "Continuous PESTEL environmental scanning across six categories. Three modes: full scan, monthly review, alert triggers.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/environmental-radar/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}

@@ -1,0 +1,13 @@
+{
+  "name": "eterdis-protoloop",
+  "version": "1.0.0",
+  "description": "Track Two innovation system for running small, fast experiments outside the core business.",
+  "author": {
+    "name": "Eterdis AS",
+    "url": "https://eterdis.com"
+  },
+  "homepage": "https://eterdis.com/skills/protoloop-setup/",
+  "license": "CC-BY-4.0",
+  "categories": ["strategy", "business"],
+  "keywords": ["strategy", "consulting", "ai-agent", "frameworks"]
+}
