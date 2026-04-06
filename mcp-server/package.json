@@ -7,7 +7,7 @@
     "eterdis-strategy-skills-mcp": "./build/index.js"
   },
   "scripts": {
-    "copy-content": "bash scripts/copy-content.sh",
+    "copy-content": "node scripts/copy-content.mjs",
     "build": "npm run copy-content && tsc",
     "prepublishOnly": "npm run build"
   },
