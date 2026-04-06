@@ -1,6 +1,7 @@
 {
   "name": "@eterdis/strategy-skills-mcp",
-  "version": "1.0.0",
+  "mcpName": "io.github.eterdis/strategy-skills",
+  "version": "1.0.1",
   "description": "MCP server exposing 11 open strategy frameworks as AI-guided prompts. Built on 20 years of consulting practice.",
   "type": "module",
   "bin": {

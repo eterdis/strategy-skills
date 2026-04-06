@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.eterdis/strategy-skills",
+  "description": "11 open strategy frameworks as AI-guided prompts for any MCP client.",
+  "repository": {
+    "url": "https://github.com/eterdis/strategy-skills",
+    "source": "github",
+    "subfolder": "mcp-server"
+  },
+  "version": "1.0.1",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@eterdis/strategy-skills-mcp",
+      "version": "1.0.1",
+      "transport": {
+        "type": "stdio"
+      }
+    }
+  ]
+}
